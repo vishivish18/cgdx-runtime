@@ -1,0 +1,11 @@
+{
+    "name":"CGDX Runtime",
+    "addons": [
+        {
+        "plan": "heroku-postgresql",
+        "options": {
+            "version": "12"
+        }
+        }
+    ]
+}
