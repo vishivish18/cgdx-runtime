@@ -1,5 +1,5 @@
 # CGDX Runtime
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CGDXP/cgdx-editor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CGDXP/cgdx-runtime)
 
 # Node-RED
 
